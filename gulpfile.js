@@ -3,7 +3,6 @@ const gulp = require('gulp');
 // Sassをコンパイルするプラグインの読み込み
 const sass = require('gulp-sass');
 const sourcemaps = require('gulp-sourcemaps');
-const autoprefixer = require('gulp-autoprefixer');
 
 // style.scssの監視タスクを作成する
 gulp.task('default', function() {
