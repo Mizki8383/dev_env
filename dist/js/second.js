@@ -1,9 +1,9 @@
-"use strict";
+'use strict';
 
-Object.defineProperty(exports, "__esModule", {
+Object.defineProperty(exports, '__esModule', {
   value: true
 });
-exports["default"] = void 0;
-var name = "にんじゃわんこ";
+exports['default'] = void 0;
+var name = 'にんじゃわんこ';
 var _default = name;
-exports["default"] = _default;
+exports['default'] = _default;
